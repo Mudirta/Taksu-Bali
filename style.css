@@ -1,0 +1,27 @@
+
+body{
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background: #9bcff1;
+
+}
+section{
+    padding-top: 2rem;
+}
+.card-img-top{
+    
+    height: 600px;
+    position: relative;
+}
+nav div img {
+width: 90px;
+}
+.logo {
+    padding: 0,5rem -0,5rem;
+    margin-left: 0px;
+    
+    
+}
