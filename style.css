@@ -20,6 +20,13 @@ section{
     height: 600px;
     position: relative;
 }
+section div video{
+    width: 400px;
+    height: 500px;
+    margin: 50px auto;
+    position: relative;
+    
+}
 nav div img {
 width: 90px;
 }
